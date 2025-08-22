@@ -15,7 +15,8 @@ This repository showcases projects I have completed in **R, MySQL, and Python**.
 - **Programming Language**: R
 - **Skills Showcased**:
   - Data cleaning, pivoted the excel file from wide format to long format.
-  - Grouping art type and artist to see individual totals as well as determining which art type has the most purchases. 
+  - Grouping art type and artist to see individual totals as well as determining which art type has the most purchases.
+  - https://github.com/MarkH27/Portfolio_Projects/blob/main/projectr.R
 
 ### Movie Gross Revenue Project
 - **Goal**: Determine what factors have a high correlation of impacting a movies total gross revenue. 
