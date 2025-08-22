@@ -25,5 +25,3 @@ This repository showcases projects I have completed in **R, MySQL, and Python**.
   - Data analysis and visualization utilizing correlation matrix.
 
 
-  - 
-
