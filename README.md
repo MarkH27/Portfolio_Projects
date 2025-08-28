@@ -8,7 +8,7 @@ This repository showcases projects I have completed in **R, MySQL, and Python**.
 - **Goal**: Clean raw dataset to be interpretable for analysis.
 - **Programming Language**: MySQL
 - **Skills Showcased**:
-  - Data CLeaning, removed duplicate data, modified the date to fit date format, standardized data by trimming and fixing minor errors.
+  - Data Cleaning, removed duplicate data, modified the date to fit date format, standardized data by trimming and fixing minor errors.
 - **View Here**: https://github.com/MarkH27/Portfolio_Projects/blob/main/Project1.sql
 
 ### Local Art Data Exploration
