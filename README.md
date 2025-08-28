@@ -1,6 +1,6 @@
 #  Data Analytics Portfolio 
 
-This repository showcases projects I have completed in **R, MySQL, and Python**. These projects showcase skills in **data analysis, data visualization, and database management**.
+This repository showcases projects I have completed in **R, MySQL, and Python**. These projects showcase my skills in **data analysis, data visualization, and database management**.
 
 ## Projects
 
