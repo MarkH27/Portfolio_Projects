@@ -28,7 +28,7 @@ This repository showcases projects I have completed in **Excel, R, SQL, and Pyth
 - **View Here**: https://github.com/MarkH27/Portfolio_Projects/blob/main/Pythonproject.html
 
 ### Bike Sales Dashboard
-- **Goal**: Look at different factors that impact the likelihood of someone purchasing a bike.
+- **Goal**: Looked into different factors that impact the likelihood of someone to purchase a bicycle.
 - **Programming Language**: Excel
 - **Skills Showcased**:
   - Data cleaning- Removing unnecessary duplicates, formatting, grouping categories, etc.
