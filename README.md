@@ -33,6 +33,6 @@ This repository showcases projects I have completed in **Excel, R, SQL, and Pyth
 - **Skills Showcased**:
   - Data cleaning- Removing unnecessary duplicates, formatting, grouping categories, etc.
   - Utilizing PivotTables in Excel and creating a dashboard that involves pivot slicing.
-- **View Here**: 
+- **View Here**: https://github.com/MarkH27/Portfolio_Projects/blob/main/Bike%20Dashboard.xlsx
 
 
