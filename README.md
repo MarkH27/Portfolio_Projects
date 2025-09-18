@@ -1,6 +1,6 @@
 #  Data Analytics Portfolio 
 
-This repository showcases projects I have completed in **R, MySQL, and Python**. These projects showcase my skills in **data analysis, data visualization, and database management**.
+This repository showcases projects I have completed in **Excel, R, SQL, and Python**. These projects showcase my skills in **data analysis, data visualization, and database management**.
 
 ## Projects
 
@@ -21,10 +21,18 @@ This repository showcases projects I have completed in **R, MySQL, and Python**.
 
 ### Movie Gross Revenue Project
 - **Goal**: Determine what factors have a high correlation of impacting a movies total gross revenue. 
-- **Programming Language**: Python.
+- **Programming Language**: Python
 - **Skills Showcased**: 
   - Data cleaning- improved formatting and added column for the proper year. 
   - Data analysis and visualization utilizing correlation matrix.
 - **View Here**: https://github.com/MarkH27/Portfolio_Projects/blob/main/Pythonproject.html
+
+### Bike Sales Dashboard
+- **Goal**: Look at different factors that impact the likelihood of someone purchasing a bike.
+- **Programming Language**: Excel
+- **Skills Showcased**:
+  - Data cleaning- Removing unnecessary duplicates, formatting, grouping categories, etc.
+  - Utilizing PivotTables in Excel and creating a dashboard that involves pivot slicing.
+- **View Here**: 
 
 
